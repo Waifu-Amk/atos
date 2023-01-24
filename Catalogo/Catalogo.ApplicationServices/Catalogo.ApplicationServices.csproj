@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Marca\" />
+    <Folder Include="Producto\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Catalogo.Core\Catalogo.Core.csproj" />
+    <ProjectReference Include="..\Catalogo.DataAccess\Catalogo.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
