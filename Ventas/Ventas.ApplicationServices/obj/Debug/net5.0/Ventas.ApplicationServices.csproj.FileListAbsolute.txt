@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\bin\Debug\net5.0\Ventas.ApplicationServices.deps.json
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\bin\Debug\net5.0\Ventas.ApplicationServices.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\bin\Debug\net5.0\Ventas.ApplicationServices.pdb
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\bin\Debug\net5.0\Ventas.Core.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\bin\Debug\net5.0\Ventas.DataAccess.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\bin\Debug\net5.0\Ventas.Core.pdb
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\bin\Debug\net5.0\Ventas.DataAccess.pdb
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.AssemblyInfo.cs
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.csproj.CopyComplete
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\refint\Ventas.ApplicationServices.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\Ventas.ApplicationServices.pdb
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.ApplicationServices\obj\Debug\net5.0\ref\Ventas.ApplicationServices.dll

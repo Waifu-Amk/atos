@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\bin\Debug\net5.0\Ventas.Core.deps.json
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\bin\Debug\net5.0\Ventas.Core.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\bin\Debug\net5.0\Ventas.Core.pdb
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\Ventas.Core.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\Ventas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\Ventas.Core.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\Ventas.Core.AssemblyInfo.cs
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\Ventas.Core.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\Ventas.Core.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\refint\Ventas.Core.dll
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\Ventas.Core.pdb
+C:\Users\kevin\source\repos\atos\Ventas\Ventas.Core\obj\Debug\net5.0\ref\Ventas.Core.dll

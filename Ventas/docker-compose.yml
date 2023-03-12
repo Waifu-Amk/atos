@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+ db:
+     image: mysql:5.7
+     environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: ventas
+      MYSQL_USER: dbuser
+      MYSQL_PASSWORD: dbuserpassword
+     volumes:
+       - dbdata:/var/lib/mysql
+       - ./_MySQL_Init_Script:/docker-entrypoint-initdb.d
+     restart: always
+     ports:
+        - "42555:3306"
+ ventas.webapi:
+    image: ${DOCKER_REGISTRY-}ventaswebapi
+    depends_on:
+        - db
+    ports:
+        - "32768:443"
+    build:
+      context: .
+      dockerfile: Ventas.WebApi/Dockerfile
+
+volumes:
+  dbdata:
