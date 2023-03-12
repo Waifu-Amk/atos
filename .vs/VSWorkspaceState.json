@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Catalogo",
+    "\\Catalogo\\Catalogo.Core"
   ],
-  "SelectedNode": "\\C:\\Users\\kevin\\Source\\Repos\\atos",
+  "SelectedNode": "\\Catalogo\\Catalogo.Core\\Categoria.cs",
   "PreviewInSolutionExplorer": false
 }

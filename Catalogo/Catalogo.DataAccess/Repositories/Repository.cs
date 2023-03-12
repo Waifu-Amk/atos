@@ -9,7 +9,7 @@ namespace Catalogo.DataAccess.Repositories
     public class Repository<TId, TEntity> : IRepository<TId, TEntity> where TEntity : class, new()
     {
         private readonly CatalogoContext _context;
-        protected CatalogoContext Context { get => _context; }
+        //protected CatalogoContext Context { get => _context; }
         public Repository(CatalogoContext context)
         {
             _context = context;

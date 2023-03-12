@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\bin\Debug\net5.0\Catalogo.Core.deps.json
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\bin\Debug\net5.0\Catalogo.Core.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\bin\Debug\net5.0\Catalogo.Core.pdb
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\Catalogo.Core.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\Catalogo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\Catalogo.Core.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\Catalogo.Core.AssemblyInfo.cs
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\Catalogo.Core.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\Catalogo.Core.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\refint\Catalogo.Core.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\Catalogo.Core.pdb
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.Core\obj\Debug\net5.0\ref\Catalogo.Core.dll
