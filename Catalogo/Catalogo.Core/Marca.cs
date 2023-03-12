@@ -14,9 +14,7 @@ namespace Catalogo.Core
         [Required]
         public string Name { get; set; }
 
-        public List <Producto> Productos { get; set; }
-
-
+        public int CategoriaId { get; set; }
 
     }
 }

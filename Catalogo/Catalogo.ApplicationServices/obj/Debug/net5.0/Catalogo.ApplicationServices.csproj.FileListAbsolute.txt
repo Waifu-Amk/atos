@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\bin\Debug\net5.0\Catalogo.ApplicationServices.deps.json
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\bin\Debug\net5.0\Catalogo.ApplicationServices.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\bin\Debug\net5.0\Catalogo.ApplicationServices.pdb
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\bin\Debug\net5.0\Catalogo.Core.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\bin\Debug\net5.0\Catalogo.DataAccess.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\bin\Debug\net5.0\Catalogo.Core.pdb
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\bin\Debug\net5.0\Catalogo.DataAccess.pdb
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.AssemblyInfo.cs
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.csproj.CopyComplete
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\refint\Catalogo.ApplicationServices.dll
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\Catalogo.ApplicationServices.pdb
+C:\Users\kevin\source\repos\atos\Catalogo\Catalogo.ApplicationServices\obj\Debug\net5.0\ref\Catalogo.ApplicationServices.dll

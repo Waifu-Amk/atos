@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Catalogo.DataAccess
 {
-    public class CatalogoContext :IdentityDbContext
+    public class CatalogoContext : IdentityDbContext
     {
         public virtual DbSet<Categoria> Categorias { get; set; }
 

@@ -4,14 +4,76 @@
     "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\Catalogo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\Catalogo.WebApi.csproj": {
+    "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.ApplicationServices\\Catalogo.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\Catalogo.WebApi.csproj",
-        "projectName": "Catalogo.WebApi",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\Catalogo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.ApplicationServices\\Catalogo.ApplicationServices.csproj",
+        "projectName": "Catalogo.ApplicationServices",
+        "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.ApplicationServices\\Catalogo.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj": {
+                "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj"
+              },
+              "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\Catalogo.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\Catalogo.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj",
+        "projectName": "Catalogo.Core",
+        "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +102,165 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\Catalogo.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\Catalogo.DataAccess.csproj",
+        "projectName": "Catalogo.DataAccess",
+        "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\Catalogo.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj": {
+                "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\Catalogo.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\Catalogo.WebApi.csproj",
+        "projectName": "Catalogo.WebApi",
+        "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\Catalogo.WebApi.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.ApplicationServices\\Catalogo.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.ApplicationServices\\Catalogo.ApplicationServices.csproj"
+              },
+              "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj": {
+                "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.Core\\Catalogo.Core.csproj"
+              },
+              "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\Catalogo.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kevin\\source\\repos\\atos\\Catalogo\\Catalogo.DataAccess\\Catalogo.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[5.0.17, )"
             },
@@ -53,6 +273,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.17.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+
+  db:
+     image: mysql:5.7
+     environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: catalogo
+      MYSQL_USER: dbuser
+      MYSQL_PASSWORD: dbuserpassword
+     volumes:
+       - dbdata:/var/lib/mysql
+       - ./_MySQL_Init_Script:/docker-entrypoint-initdb.d
+     restart: always
+     ports:
+        - "42333:3306"
+  catalogo.webapi:
+    image: ${DOCKER_REGISTRY-}catalogowebapi
+    depends_on:
+       - db
+    ports:
+       - "8080:5000"
+    build:
+      context: .
+      dockerfile: Catalogo/Dockerfile
+volumes:
+    dbdata:

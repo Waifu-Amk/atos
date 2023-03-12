@@ -15,7 +15,8 @@ namespace Catalogo.Core
         [Required]
         public string Name { get; set; }
 
-        public Marca Marca { get; set; }
+        public int MarcaId { get; set; }
+
 
 
 
