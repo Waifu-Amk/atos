@@ -33,3 +33,4 @@ C:\Users\kevin\source\repos\atos\Ventas\bin\Debug\Ventas.Core.pdb
 C:\Users\kevin\source\repos\atos\Ventas\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Users\kevin\source\repos\atos\Ventas\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Users\kevin\source\repos\atos\Ventas\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\kevin\source\repos\atos\Ventas\bin\Debug\Newtonsoft.Json.dll

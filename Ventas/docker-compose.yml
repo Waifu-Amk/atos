@@ -14,6 +14,8 @@ services:
      restart: always
      ports:
         - "42555:3306"
+     networks:
+        - ventas
  ventas.webapi:
     image: ${DOCKER_REGISTRY-}ventaswebapi
     depends_on:
@@ -23,6 +25,13 @@ services:
     build:
       context: .
       dockerfile: Ventas.WebApi/Dockerfile
-
+    networks:
+        - ventas
+        - web
 volumes:
   dbdata:
+networks:
+  ventas:
+  web:
+    external: true
+    name: shared-web
